@@ -12,4 +12,5 @@
 🔹 انضم إلى سيرفرنا على ديسكورد:
 
 https://discord.gg/HCvq5d83ZU
+
 ```npm install discord.js chalk@4```
